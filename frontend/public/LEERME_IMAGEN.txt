@@ -1,0 +1,21 @@
+INSTRUCCIONES PARA AGREGAR LA IMAGEN DE FONDO
+==============================================
+
+1. Coloca tu imagen de fondo en esta carpeta (frontend/public/)
+2. Nombra la imagen como: background.jpg
+   (También puedes usar: background.png, background.webp, etc.)
+
+3. Si tu imagen tiene otro nombre, edita los archivos:
+   - frontend/src/App.css
+   - frontend/src/index.css
+   
+   Y cambia 'background.jpg' por el nombre de tu imagen.
+
+4. La imagen se mostrará como fondo de toda la aplicación con un overlay blanco semi-transparente para mantener la legibilidad del texto.
+
+FORMATOS SOPORTADOS:
+- .jpg / .jpeg
+- .png
+- .webp
+- .svg
+
